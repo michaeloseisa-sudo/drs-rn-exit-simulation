@@ -1,0 +1,80 @@
+{
+ "burnout_weekly_2019": {
+  "p": 0.24944666733612111,
+  "se": 0.006926613091920369,
+  "n": 16488,
+  "desc": "Hospital RNs: burned out a few times a week or more in 2019"
+ },
+ "burnout_weekly_2020": {
+  "p": 0.5320002406178125,
+  "se": 0.007418076354128022,
+  "n": 16873,
+  "desc": "Hospital RNs: burned out a few times a week or more in 2020"
+ },
+ "burnout_weekly_2021": {
+  "p": 0.53696098741919,
+  "se": 0.008362109651164419,
+  "n": 17076,
+  "desc": "Hospital RNs: burned out a few times a week or more in 2021"
+ },
+ "left_position": {
+  "p": 0.24287565510055714,
+  "se": 0.005975222030527682,
+  "n": 17128,
+  "desc": "Hospital RNs who later left their Dec-31-2021 primary position (by survey response)"
+ },
+ "leavers_cite_burnout": {
+  "p": 0.5715525194137958,
+  "se": 0.01678786491675966,
+  "n": 3757,
+  "desc": "Hospital RN leavers citing burnout as a reason (Section D1)"
+ },
+ "leavers_cite_burnout_noretire": {
+  "p": 0.6008646384724398,
+  "se": 0.016400356705049603,
+  "n": 3277,
+  "desc": "Same, excluding leavers citing retirement"
+ },
+ "leavers_left_nursing_noretire": {
+  "p": 0.06523090614466875,
+  "se": 0.006767948378765607,
+  "n": 3277,
+  "desc": "Non-retiring hospital RN leavers who did not continue in nursing"
+ },
+ "leavers_left_nursing_all": {
+  "p": 0.1182117722641859,
+  "se": 0.007448771529791573,
+  "n": 3757,
+  "desc": "All hospital RN leavers who did not continue in nursing"
+ },
+ "tenure_lt1": {
+  "p": 0.0904368862157769,
+  "se": 0.0050356291125330495,
+  "n": 17128,
+  "desc": "Hospital RNs: time with employer, category lt1"
+ },
+ "tenure_1_5": {
+  "p": 0.3501128694560772,
+  "se": 0.007043505512014594,
+  "n": 17128,
+  "desc": "Hospital RNs: time with employer, category 1_5"
+ },
+ "tenure_gt5": {
+  "p": 0.5594502443281459,
+  "se": 0.007426084180842409,
+  "n": 17128,
+  "desc": "Hospital RNs: time with employer, category gt5"
+ },
+ "considered_leaving_pastyear": {
+  "p": 0.5946645327086754,
+  "se": 0.007434649240109569,
+  "n": 13371,
+  "desc": "Hospital RN stayers who considered leaving in the past year"
+ },
+ "changed_job_2021": {
+  "p": 0.1661891956066348,
+  "se": 0.006102361561833876,
+  "n": 16487,
+  "desc": "Hospital RNs whose Dec-2020 position/employer differed from Dec-2021"
+ }
+}
