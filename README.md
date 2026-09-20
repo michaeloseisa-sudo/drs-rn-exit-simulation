@@ -47,4 +47,3 @@ Atlanta Wage Growth Tracker (July 2026). Only published aggregate statistics are
 ## Limitations
 Simulation only. Parameters marked ASSUMPTION in `sim.py` have no public source; the self-employment
 and other-sector paths are weakly identified. External validation is required before any real-world use.
-
